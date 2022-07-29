@@ -1,0 +1,21 @@
+[
+  {
+    "nombre": "Mali",
+    "saldo": 200,
+    "cuenta": "1123",
+    "pass":  "1123"
+  },
+  {
+    "nombre": "Gera",
+    "saldo": 290,
+    "cuenta": "456",
+    "pass":  "5434"
+  },
+  {
+    "nombre": "Maui",
+    "saldo": 67,
+    "cuenta": "789",
+    "pass":  "5434"
+  }
+]
+

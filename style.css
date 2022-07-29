@@ -1,0 +1,37 @@
+.navbar-brand {
+  letter-spacing: 3px;
+  color: #c24244;
+}
+
+.navbar-brand:hover {
+	color: #c24244;
+}
+
+.navbar-scroll .nav-link,
+.navbar-scroll .fa-bars {
+  color: #7f4722;
+}
+
+.navbar-scrolled .nav-link,
+.navbar-scrolled .fa-bars {
+  color: #7f4722;
+}
+
+.navbar-scrolled {
+  background-color: #ffede7;
+}
+
+.container{
+  background-color: skyblue;
+}
+
+#contenido {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*#contenido div {
+  width: 100px;
+  height: 100px;
+}*/
